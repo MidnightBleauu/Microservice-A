@@ -66,3 +66,8 @@ After the /notify endpoint has processed the request, then it returns a confirma
    ```python
    response_data = response.json()
    print("Response Data:", response_data)
+
+
+![579f31929e2b74a670cfd0f1e9c65009cd4ce9e3ad11761b93cbc8f577b502f7](https://github.com/user-attachments/assets/1acfbc6d-d162-4599-a541-73249e6e6014)
+
+
